@@ -59,7 +59,7 @@
 
 ### 🖥️ Open-Source Projects
 <table>
-<tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
+<tr><th>Machine Learning 
 <tr><td>
 
 |Title | Stars | Technologies|
@@ -70,8 +70,8 @@
 | [Dynamic-pix2pix](https://arxiv.org/abs/2211.08570) | | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
 | [MSGDD-CGAN](https://arxiv.org/abs/2109.05614) | | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
 | [Multi Objective Histogram Thresholding](https://link.springer.com/article/10.1007/s11042-022-12443-9) | | ![Matlab](https://img.shields.io/badge/Matlab-black?style=flat-square&logo=pytorch) |
-| [Awesome-unet-like-transformers](https://github.com/givkashi/Awesome-unet-like-transformers) | <img alt="Stars" src="https://img.shields.io/github/stars/givkashi/Awesome-unet-like-transformers?style=flat-square&labelColor=black"/> | | |
-</td><td>
+| [Awesome-unet-like-transformers](https://github.com/givkashi/Awesome-unet-like-transformers) | <img alt="Stars" src="https://img.shields.io/github/stars/givkashi/Awesome-unet-like-transformers?style=flat-square&labelColor=black"/> | |
+<tr><td>
 
 <details>
 <summary>📈 Stats</summary>
@@ -86,6 +86,7 @@ My Github Stats
 
 <br>
 Currently Working with:
+![](https://github.com/jwyang)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11159336621)
 
