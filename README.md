@@ -1,20 +1,9 @@
 <p align="center">
 <a href="https://github.com/mohammadrezanaderi4">
-    <img src="https://readme-typing-svg.demolab.com?font=consolas&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=M.R.+Naderi;Researcher+%7C+ M.Sc. +%7C+System+Communications;AI+%7C+Computer+Vision+%7C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=consolas&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=M.R.+Naderi;Researcher+%7C+ M.Sc. +%7C+System+teleCommunications;AI+%7C+Computer+Vision+%7C" alt="Typing SVG" />
 </a>
 <br/>
-
-[comment]: <> (<a href="https://gkos.tech">)
-
-[comment]: <> (    <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">)
-
-[comment]: <> (</a>  )
-
-[comment]: <> (<a href="https://gkos.tech/Resume.pdf">)
-
-[comment]: <> (    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">)
-
-[comment]: <> (</a>  )
+    
 <a href="https://www.linkedin.com/in/mohammadreza-naderi-4457931a2/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
@@ -25,26 +14,14 @@
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
 
-[comment]: <> (<a href="https://pypi.org/user/drkostas/">)
-
-[comment]: <> (    <img src="https://img.shields.io/badge/PyPi-drkostas-blue?style=flat-square&logo=pypi&logoColor=white">)
-
-[comment]: <> (</a>)
-
-[comment]: <> (<a href="https://pypi.org/user/drkostas/">)
-
-[comment]: <> (    <img src="https://komarev.com/ghpvc/?username=mohammadrezanaderi4&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />)
-
-[comment]: <> (</a>)
-
 <br/> 
 
-<!-- <a href="https://github.com/drkostas">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohammadrezanaderi4&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
+<!-- <a href="https://github.com/mohammadrezanaderi4">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohammadrezanaderi4&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=500px&hide_rank=true&bg_color=00000000&theme=dracula">
 </a> -->
 
-<a href="https://github.com/drkostas">
-    <img src="https://github-stats-alpha.vercel.app/api?username=mohammadrezanaderi4&cc=F5F5DC&tc=000&ic=6667AB&bc=6667AB">
+<a href="https://github.com/mohammadrezanaderi4">
+    <img src="https://github-stats-alpha.vercel.app/api?username=mohammadrezanaderi4&cc=6667AB&tc=000&ic=F5F5DC&bc=6667AB">
 </a>
 
 </p>
@@ -86,9 +63,7 @@ My Github Stats
 
 <br>
 Currently Working with:
-![](https://github.com/jwyang)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11159336621)
+[jwyang](https://github.com/jwyang)
 
 </details>
 
