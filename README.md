@@ -46,7 +46,7 @@
 | [OAIR](https://github.com/givkashi/OAIR) | <img alt="Stars" src="https://img.shields.io/github/stars/givkashi/OAIR?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
 | [Dynamic-pix2pix](https://arxiv.org/abs/2211.08570) | | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
 | [MSGDD-CGAN](https://arxiv.org/abs/2109.05614) | | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
-| [Multi Objective Histogram Thresholding](https://link.springer.com/article/10.1007/s11042-022-12443-9) | | ![Matlab](https://img.shields.io/badge/Matlab-black?style=flat-square&logo=pytorch) |
+| [Multi Objective Histogram Thresholding](https://link.springer.com/article/10.1007/s11042-022-12443-9) | | ![Matlab](https://img.shields.io/badge/Matlab-black?style=flat-square&logo=matlab) |
 | [Awesome-unet-like-transformers](https://github.com/givkashi/Awesome-unet-like-transformers) | <img alt="Stars" src="https://img.shields.io/github/stars/givkashi/Awesome-unet-like-transformers?style=flat-square&labelColor=black"/> | |
 <tr><td>
 
