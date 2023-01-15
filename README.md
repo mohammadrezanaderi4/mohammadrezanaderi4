@@ -26,7 +26,7 @@
 
 </p>
 
-* 📖 Graduated M.Sc. in System telecommunication engineering @ [The Isfahan University of Techonology](https://ece.iut.ac.ir/en/). 
+* 📖 M.Sc. in System telecommunication engineering @ [The Isfahan University of Technology](https://ece.iut.ac.ir/en/). 
 
 * 🎓 Researching on **AI** and **Computer Vision** @ HaDIP Lab.
 
