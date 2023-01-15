@@ -62,8 +62,6 @@ My Github Stats
 
 
 <br>
-Currently Working with:
-[jwyang](https://github.com/jwyang)
 
 </details>
 
