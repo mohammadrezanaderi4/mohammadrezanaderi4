@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/mohammadrezanaderi4">
-    <img src="https://readme-typing-svg.demolab.com?font=consolas&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=M.R.+Naderi;Researcher+%7C+ M.Sc. +%7C+System+Communication+Engineering;AI+%7C+Computer+Vision+%7C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=consolas&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=M.R.+Naderi;Researcher+%7C+ M.Sc. +%7C+System+Communications;AI+%7C+Computer+Vision+%7C" alt="Typing SVG" />
 </a>
 <br/>
 
